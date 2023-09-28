@@ -45,7 +45,7 @@ The Last Guardian is a 3D single-player souls-like game. The Chosen One, the pro
 </h3>
 <!-- <p align="left">🔗 Repository: <a href="" target="_blank" alt="Link towards Repository - Kerjasama">Click Me!</a></p> -->
 <p align="left">🔗 ITCH.IO Link: <a href="https://spoiler02.itch.io/akumu" target="_blank" alt="Link towards ITCH.IO - Akumu">Click Me!</a>
-<p align="left">🔗 Demo Video: <a href="https://youtu.be/ZwfVXeaVWEs" target="_blank" alt="Link towards YT Demo - Akumu">Click Me!</a>
+<p align="left">🔗 Demo Videos: <a href="https://tinyurl.com/AkumuGameplayVideos" target="_blank" alt="Link towards YT Demo - Akumu">Click Me!</a>
 <h4>📫 Short Intro - Akumu:</h4>
 <p align="justify">
 Akumu is a 3D single-player story-driven horror game. Ayaka, the protagonist of the game, fell asleep in the classroom and could not leave the school through the main entrance as it was locked. Meanwhile, there were footsteps nearby echoed in the corridor... The player will be playing as the main character - Ayaka, and try to find her way out.
