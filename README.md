@@ -87,10 +87,10 @@ Kerjasama is a groundbreaking mobile application that provides job opportunities
 <h3 align="center">
 📝&nbsp;ReactJS - CREL Generator&nbsp;📝
 <br> <br>
-<a href="https://spoiler02.github.io/AutoGen-CREL-V2/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Kerjasama Image" width="280px" height="260px"></a>
+<a href="https://spoiler02.github.io/CREL-Generator/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Kerjasama Image" width="280px" height="260px"></a>
 </h3>
-<p align="left">🔗 Repository: <a href="https://github.com/SpoILeR02/AutoGen-CREL-V2" target="_blank" alt="Link towards Repository - CREL Generator">Click Me!</a></p>
-<p align="left">🔗 Website URL: <a href="https://spoiler02.github.io/AutoGen-CREL-V2/" target="_blank" alt="Link towards Website - CREL Generator">Click Me!</a></p>
+<p align="left">🔗 Repository: <a href="https://github.com/SpoILeR02/CREL-Generator/" target="_blank" alt="Link towards Repository - CREL Generator">Click Me!</a></p>
+<p align="left">🔗 Website URL: <a href="https://spoiler02.github.io/CREL-Generator/" target="_blank" alt="Link towards Website - CREL Generator">Click Me!</a></p>
 <h4>📫 Short Intro - CREL Generator:</h4>
 <p align="justify">
 CREL Generator allows the user to enter the required information for an Email, typically Recipient, Subject, Carbon Copy (CC), Blind Carbon Copy (BCC), and Body. There will be two options for the user to choose from, either generate short URLs for mobile phones or tablets or for desktop PCs. The generated URL will auto-compose an Email content (Gmail) with all necessary information filled in automatically, and the person who opened the URL using browser just have to click Send to send the Email. The shortened URL uses the default Email signed in (for Desktop PCs) and default mailing application (for tablets or mobile phones).
