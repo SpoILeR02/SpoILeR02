@@ -18,7 +18,7 @@ My ITCH.IO Profile
 </h2>
 <p align="justify">I mainly use Unity Game Engine to develop games. However, I am interested in Unreal Game Engine as well! Most probably will spend my free time to explore it in the future.</p>
 <h2 align="center">
-<img src="https://www.protocol.com/media-library/unity-logo.jpg?id=30046849&width=1245&height=700&quality=85&coordinates=416%2C0%2C417%2C0" alt="Unity Image" width="410px" height="250px">
+<img src="https://cdn.sanity.io/images/fuvbjjlp/production/9a58ef0b0a39424aaf70dd4c30539b477ae54697-1200x630.png" alt="Unity Image" width="410px" height="250px">
 </h2>
 
 <h2 align="center">🎓🎓&nbsp;&nbsp;Personal / Academic Projects&nbsp;&nbsp;🎓🎓</h2>
