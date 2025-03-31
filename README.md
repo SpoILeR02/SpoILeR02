@@ -3,7 +3,7 @@
 </h2>
 
 <p align="justify">
-My name is Wong Yan Zhi, a final-year student taking <a href="https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-computer-science-honours-in-interactive-software-technology/" alt="Link towards YanZhi's Programme of Study">Bachelor of Computer Science (Honours) in Interactive Software Technology at Tunku Abdul Rahman University of Management and Technology (TAR UMT)</a>. My major of interest was in game design and game development!
+My name is Wong Yan Zhi, an enthusiastic individual with dedicated interest in game development and game design, that completed his study @ <a href="https://www.tarc.edu.my/focs/programmes/bachelor-degree/bachelor-of-computer-science-honours-in-interactive-software-technology/" alt="Link towards YanZhi's Programme of Study">Bachelor of Computer Science (Honours) in Interactive Software Technology at Tunku Abdul Rahman University of Management and Technology (TAR UMT)</a> recently.
 </p>
 
 <h2 align="center">
